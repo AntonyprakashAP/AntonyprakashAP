@@ -77,10 +77,6 @@
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/a-antony-prakash/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:antonyprakash1612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 <p align="left">
 <a href="https://dev.to/antony_prakash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antony_prakash_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antony prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony prakash" height="30" width="40" /></a>
