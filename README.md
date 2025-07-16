@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Prakash</h1>
-<h3 align="center">A Curious Full-Stack Developer & Aspiring Data Scientist</h3>
+<h3 align="center"> 💻 Software Engineer | 📊 Certified Data Scientist | 🚀 Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+Real-World+Tech+Solutions;Lifelong+Learner+%26+Code+Explorer;Fighting+Mobile+Addiction+Like+a+Pro!" alt="Typing SVG" />
