@@ -10,9 +10,12 @@
 ### 🔥 About Me
 
 <!-- - 🚀 Building a **Blood Bank Management System** using **Spring Boot, React, PostgreSQL**. -->
-- 🎓 Learning Data Science via **IBM Data Science Professional Certificate**.
 - 📊 Exploring dashboards, data visualization & stock analysis.
-- 🛡️ Reducing mobile addiction & staying productive! 😉
+- 🧑‍💻 I write clean, efficient code using **Java, Python, JavaScript, React, and Spring Boot**
+- 🧠 I explore data with **Pandas, NumPy, Matplotlib, Scikit-learn, and TensorFlow**
+- 📊 Currently pursuing the **IBM Data Science Professional Certificate**
+- 🎯 Building projects with a focus on **full-stack web development and ML pipelines**
+- 📜 **Certified:** IBM Data Science Professional Certificate (2025)
 
 ---
 
@@ -40,6 +43,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 📘 IBM Data Science Professional Certificate  
+Completed on **Coursera**  
+- Data Wrangling, Visualization, SQL & Machine Learning
+- Projects include web scraping, APIs, dashboards, and prediction models  
+[🔗 Certificate Link](https://coursera.org/verify/YOUR-CERTIFICATE-ID)
 
 ---
 
